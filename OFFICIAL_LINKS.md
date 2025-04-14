@@ -5,5 +5,5 @@ When sharing Village Generator with others (i.e., messages, internet posts, vide
 - https://www.curseforge.com/minecraft-bedrock/addons/village-generator-function-pack
 - https://github.com/th3emilis/village-generator
 
-> [!NOTE]
+> [!IMPORTANT]
 > Opting to use one of the links above helps support me and ensures players who want to download the add-on will always have access to the latest version.
