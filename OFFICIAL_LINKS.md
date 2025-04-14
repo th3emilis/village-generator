@@ -6,4 +6,4 @@ When sharing Village Generator with others (i.e., messages, internet posts, vide
 - https://github.com/th3emilis/village-generator
 
 > [!IMPORTANT]
-> Opting to use one of the links above helps support me and ensures players who want to download the add-on will always have access to the latest version.
+> **Opting to use one of the links above helps support me and ensures players who want to download the add-on will always have access to the latest version.**
