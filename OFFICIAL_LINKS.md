@@ -3,6 +3,7 @@
 When sharing **Village Generator** with others (i.e., messages, internet posts, video descriptions, etc.), please do not use the direct download link or any user-generated link to the add-on. Instead, use one of the following official links:
 - https://mcpedl.com/village-generator-function-pack
 - https://curseforge.com/minecraft-bedrock/addons/village-generator-function-pack
+- https://modbay.org/mods/4413-village-generator.html
 - https://planetminecraft.com/mod/village-generator
 - https://github.com/th3emilis/village-generator
 
