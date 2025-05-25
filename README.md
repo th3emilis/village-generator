@@ -28,18 +28,19 @@ Generate old-type villages or individual old village structures.
 
 ## Usage
 
-In the chat screen, type `/function vg/help` to get a list of several available functions. Every subfolder has a similar help function, such as `/function vg/snowy/help`.
+In the chat screen, type `/function vg/help` to get a list of several available functions. Every subfolder includes a similar help function, such as `/function vg/taiga/help`.
 
-Once you have found the structure you want to generate, make sure you are positioned at the location where you want it to be placed. When choosing the location for the structure, keep in mind that they generate in the cardinal direction your character is facing and to the right. For example, if you are facing east, the structure will generate in the direction where both `X` and `Y` coordinate values increase.
+Once you have found the structure you want to generate, make sure you are positioned at the location where you want it to be placed. When selecting a location, keep in mind that structures generate diagonally to the right in the cardinal direction your character is facing. For example, if you are facing east, the structure will generate toward positive `X` and `Y` coordinate values.
 
 Here are a few functions you can try before digging into all the available options:
-- `/function vg/instant_village/old/desert`: *Generate a prebuilt old-type desert village*
+- `/function vg/instant_village/old/taiga`: *Generate a prebuilt old-type taiga village*
+- `/function vg/instant_village/desert_1`: *Generate a prebuilt desert village*
 - `/function vg/instant_village/plains_2`: *Generate a prebuilt plains village*
 - `/function vg/savanna/houses/small_house_1`: *Generate a savanna small house*
 - `/function vg/populate`: *Summon villagers, cats, and an iron golem for your village*
 
 ### Recommended settings
-In order to ensure that instant villages generate correctly, **it is recommended that you set your simulation distance to at least 6 chunks**. Instant villages are large structures and trying to generate them in unloaded chunks may cause some individual structures from the villages to fail to generate.
+In order to ensure that instant villages generate correctly, **it is recommended that you set your simulation distance to at least 6 chunks**. Instant villages are large structures and attempting to generate them in unloaded chunks may cause some individual structures of the village to fail to generate.
 
 ### Using on mobile
 Many functions use long names that can get tedious to type on a mobile device after a while. For a better experience, you can use the add-on alongside [Advanchat](https://github.com/th3emilis/advanchat/releases/latest), which allows you to autocomplete commands and access previously run commands easily.
