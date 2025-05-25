@@ -2,6 +2,23 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.1.0 - 25 May 2025
+
+- Added 109 new individual structures.
+    - Added all 43 remaining taiga village structures.
+    - Added all 40 remaining desert village structures.
+    - Added all 13 old taiga village structures.
+    - Added all 13 old savanna village structures.
+- Added instant taiga village generation.
+- Added instant desert village generation.
+    - Added 2 instant desert village designs.
+- Added instant old taiga village generation.
+- Added instant old savanna village generation.
+- Added old village populate function.
+- Instant old villages are now populated upon generation.
+- Fixed oak tree not generating in plains_2 instant village.
+- Minor tweaks and improvements.
+
 ## 2.0.0 - 13 April 2025
 
 - Structures now generate in the cardinal direction the player is facing.
