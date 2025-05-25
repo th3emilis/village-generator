@@ -9,22 +9,22 @@ Build villages anywhere in your world with the run of a single command. Village 
 ### Individual structures
 Build your own village, structure by structure.
 
-![In-game screenshot showcasing a plains small house, a shepherd’s house and a big house along a dirt path.](assets/screenshot_0.png)
+![Screenshot showing a mason’s house, a small house 5, and a small house 1 along a dirt path.](assets/screenshot_0.png)
 
 ### Instant village
 Generate an entire village with a single command.
 
-![In-game screenshot showcasing an instant plains village.](assets/screenshot_1.png)
+![Screenshot showing an instant desert village.](assets/screenshot_1.png)
 
 ### Multiple village types
-Choose between different village types to fit your biome or theme.
+Choose between different village types to match your biome or theme.
 
-![In-game screenshot showcasing a plains, a snowy, and a savanna small house.](assets/screenshot_2.png)
+![Screenshot showing small houses from snowy, taiga, savanna, and desert villages.](assets/screenshot_2.png)
 
 ### Old village
 Generate old-type villages or individual old village structures.
 
-![In-game screenshot showcasing an instant old plains village and an instant old desert village.](assets/screenshot_3.png)
+![Screenshot showing an instant old plains village and an instant old taiga village.](assets/screenshot_3.png)
 
 ## Usage
 
