@@ -2,6 +2,9 @@
 
 > Created by [Th3Emilis](https://github.com/th3emilis)
 
+<a href="https://curseforge.com/minecraft-bedrock/addons/village-generator-function-pack/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>
+<a href="https://mcpedl.com/village-generator-function-pack/#downloads"><img src="https://github.com/user-attachments/assets/8d2314e9-8706-40e5-aabc-53adc1abe75f" height="56" alt="Get it on MCPEDL"></a>
+
 Build villages anywhere in your world with the run of a single command. Village Generator adds various functions to the game to help you design your own village from scratch quickly and easily. Now, go bring more life into your superflat worlds!
 
 ## Features
