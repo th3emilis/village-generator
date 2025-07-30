@@ -5,56 +5,62 @@
 <a href="https://curseforge.com/minecraft-bedrock/addons/village-generator-function-pack/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>  
 <a href="https://mcpedl.com/village-generator-function-pack/#downloads"><img src="https://github.com/user-attachments/assets/8d2314e9-8706-40e5-aabc-53adc1abe75f" height="56" alt="Get it on MCPEDL"></a>
 
-Build villages anywhere in your world with the run of a single command. Village Generator adds various functions to the game to help you design your own village from scratch quickly and easily. Now, go bring more life into your superflat worlds!
+Build villages anywhere in your world in the blink of an eye. Village Generator adds over 500 functions to the game to help you instantly place villages, or, if you are feeling creative, to design your own from scratch with ease. Now go bring your superflat worlds to life!
 
 ## Features
 
 ### Individual structures
-Build your own village, structure by structure.
+Build your own village, one structure at a time.
 
-![Screenshot showing a mason’s house, a small house 5, and a small house 1 along a dirt path.](assets/screenshot_0.png)
+![Screenshot showing three small houses, a weaponsmith, and a mason’s house along a dirt path.](assets/screenshot_0.png)
 
 ### Instant village
 Generate an entire village with a single command.
 
-![Screenshot showing an instant desert village.](assets/screenshot_1.png)
+![Screenshot showing an instant Taiga Village.](assets/screenshot_1.png)
 
 ### Multiple village types
-Choose between different village types to match your biome or theme.
+Choose between different variants to match your biome or theme.
 
-![Screenshot showing small houses from snowy, taiga, savanna, and desert villages.](assets/screenshot_2.png)
+![Screenshot showing small houses from Desert, Savanna, Taiga, and Snowy Villages.](assets/screenshot_2.png)
+
+### Abandoned villages
+Generate instant zombie villages or individual zombie village structures.
+
+![Screenshot showing an instant Abandoned Desert Village and an instant Abandoned Plains Village.](assets/screenshot_3.png)
 
 ### Old village
-Generate old-type villages or individual old village structures.
+Generate instant old-type villages or individual old-type village structures.
 
-![Screenshot showing an instant old plains village and an instant old taiga village.](assets/screenshot_3.png)
+![Screenshot showing an instant Old Savanna Village and an instant Old Plains Village.](assets/screenshot_4.png)
+
+### Compatible with other generators
+Seamlessly pair this add-on with other generators, like [Pillage Generator](https://github.com/th3emilis/pillage-generator/releases/latest).
+
+![Screenshot showing an instant Plains Village and an instant Pillager Outpost.](assets/screenshot_5.png)
 
 ## Usage
 
-In the chat screen, type `/function vg/help` to get a list of several available functions. Every subfolder includes a similar help function, such as `/function vg/taiga/help`.
+In the chat screen, type `/function vg/help` to get a list of all the available functions in the main directory. Every subdirectory includes a similar function, such as `/function vg/plains/help`.
 
-Once you have found the structure you want to generate, make sure you are positioned at the location where you want it to be placed. When selecting a location, keep in mind that structures generate diagonally to the right in the cardinal direction your character is facing. For example, if you are facing east, the structure will generate toward positive `X` and `Y` coordinate values.
+Once you have found the structure you want to generate, make sure you are standing where you want it to be placed. When selecting a location, keep in mind that structures generate diagonally to the right, in the cardinal direction your character is facing. For example, if you are facing east, the structure will generate toward positive `X` and `Y` coordinate values.
 
-Here are a few functions you can try before digging into all the available options:
-- `/function vg/instant_village/old/taiga`: *Generate a prebuilt old-type taiga village*
-- `/function vg/instant_village/desert_1`: *Generate a prebuilt desert village*
-- `/function vg/instant_village/plains_2`: *Generate a prebuilt plains village*
-- `/function vg/savanna/houses/small_house_1`: *Generate a savanna small house*
+Here are a few functions to get you started:
+- `/function vg/instant/old/desert_2`: *Generate a prebuilt Old Desert Village*
+- `/function vg/instant/taiga_1`: *Generate a prebuilt Taiga Village*
+- `/function vg/instant/zombie_plains_1`: *Generate a prebuilt Abandoned Plains Village*
+- `/function vg/snowy/houses/small_house_1`: *Generate a Snowy Small House*
 - `/function vg/populate`: *Summon villagers, cats, and an iron golem for your village*
 
 ### Recommended settings
-In order to ensure that instant villages generate correctly, **it is recommended that you set your simulation distance to at least 6 chunks**. Instant villages are large structures and attempting to generate them in unloaded chunks may cause some individual structures of the village to fail to generate.
+In order for instant villages to generate correctly, **it is recommended that you set your world’s simulation distance to at least 6 chunks**. Instant villages are large structures and attempting to generate them in unloaded chunks may cause some individual structures of the village to fail to generate.
 
 ### Using on mobile
-Many functions use long names that can get tedious to type on a mobile device after a while. For a better experience, you can use the add-on alongside [Advanchat](https://github.com/th3emilis/advanchat/releases/latest), which allows you to autocomplete commands and access previously run commands easily.
+Most functions follow the same structure naming scheme used internally by Minecraft. However, having to type complex function commands repeatedly on a mobile device becomes tedious very quickly. For a better experience, you can pair the add-on with [Advanchat](https://github.com/th3emilis/advanchat/releases/latest) to start autofilling and accessing previous functions effortlessly.
 
-## Terms of Use
+## License
 
-By downloading, installing, accessing, using or interacting in any way with this add-on, you agree to be bound by the following terms:
-- **Attribution** — You must give proper credit to the creator if you reference, use or feature any of the add-on contents (user interface, files, etc.) in your own content, such as videos, blogs, or social media posts.
-- **No Redistribution** — You may not reproduce, redistribute or republish the add-on in any form or by any means. You may not share the direct download link or any user-generated link to the add-on. Use one of the [official links](https://github.com/th3emilis/village-generator/blob/main/OFFICIAL_LINKS.md).
-- **Non-Commercial** — You may not use the add-on for any commercial or revenue-generating purposes, such as advertising, selling or renting. You may not charge any fees or request any donations for accessing or using the add-on.
-- **No Derivates** — You can remix, adapt or build upon the add-on for your own private use, but you may not share, distribute, or make available the modified version of the add-on to any third party. You also agree not to use any part of the add-on (such as files or code snippets) in other add-ons.
+To learn what you are permitted and not permitted to do with the add-on, see [Village Generator License](LICENSE.md).
 
 ## Feedback
 
