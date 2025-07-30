@@ -1,7 +1,7 @@
 # License
 
-By downloading, installing, accessing, using or interacting in any way with Village Generator (the “add-on”), created by Th3Emilis (the “author”), you agree to be bound by the following terms:
-- **Attribution:** You must give proper credit to the author if you reference, use or feature any of the add-on contents (user interface, files, etc.) in your own content, such as videos, blogs, or social media posts.
+By downloading, installing, accessing, using or interacting in any way with Village Generator (“the add-on”), created by Th3Emilis (“the author”), you agree to be bound by the following terms:
+- **Attribution:** You must give proper credit to the author if you reference, use or feature any part of the add-on (user interface, files, etc.) in your own content, such as videos, blogs, or social media posts.
 - **No Redistribution:** You may not reproduce, redistribute or republish the add-on in any form or by any means. You may not share the direct download link or any user-generated link to the add-on. Use one of the [official links](https://github.com/th3emilis/village-generator/blob/main/OFFICIAL_LINKS.md).
 - **Non-Commercial:** You may not use the add-on for any commercial or revenue-generating purposes, such as advertising, selling or renting. You may not charge any fees or request any donations for accessing or using the add-on.
 - **No Derivates:** You can remix, adapt or build upon the add-on for your own private use, but you may not share, distribute, or make available the modified version of the add-on to any third party. You also agree not to use any part of the add-on (such as files or code snippets) in other add-ons.
