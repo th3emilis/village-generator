@@ -2,6 +2,18 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.2.0 - 30 July 2025
+
+- Added 250 new individual structures: 52 Savanna Village, 40 Snowy Village, 45 Abandoned Desert Village, 61 Abandoned Plains Village, and 52 Old Zombie Village (all variants).
+- Added a new instant Old Village design for all variants (Desert, Plains, Savanna, and Taiga).
+- Added instant village generation for Savanna Village, Snowy Village, Abandoned Desert Village, Abandoned Plains Village, and Old Zombie Village (all variants).
+- Added Abandoned Village and Old Zombie Village populate functions.
+- Chests in structures now generate with random loot.
+- Fixed incorrect use of dirt blocks instead of dirt path blocks in some structures.
+- Renamed vg/instant_village directory to vg/instant.
+- Minor tweaks and improvements.
+- Minimum engine version is now Minecraft 1.21.80.
+
 ## 2.1.0 - 25 May 2025
 
 - Added 109 new individual structures.
