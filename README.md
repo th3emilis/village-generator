@@ -5,7 +5,7 @@
 <a href="https://curseforge.com/minecraft-bedrock/addons/village-generator-function-pack/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>  
 <a href="https://mcpedl.com/village-generator-function-pack/#downloads"><img src="https://github.com/user-attachments/assets/8d2314e9-8706-40e5-aabc-53adc1abe75f" height="56" alt="Get it on MCPEDL"></a>
 
-Build villages anywhere in your world in the blink of an eye. Village Generator adds over 500 functions to the game to help you instantly place villages, or, if you are feeling creative, to design your own from scratch with ease. Now go bring your superflat worlds to life!
+Build villages anywhere in your world in the blink of an eye. Village Generator adds over 500 functions to the game to help you instantly place villages, or, if you’re feeling creative, to design your own from scratch with ease. Now go bring your superflat worlds to life!
 
 ## Features
 
@@ -48,12 +48,12 @@ Once you have found the structure you want to generate, make sure you are standi
 Here are a few functions to get you started:
 - `/function vg/instant/old/desert_2`: *Generate a prebuilt Old Desert Village*
 - `/function vg/instant/taiga_1`: *Generate a prebuilt Taiga Village*
-- `/function vg/instant/zombie_plains_1`: *Generate a prebuilt Abandoned Plains Village*
+- `/function vg/instant/zombie_plains_3`: *Generate a prebuilt Abandoned Plains Village*
 - `/function vg/snowy/houses/small_house_1`: *Generate a Snowy Small House*
 - `/function vg/populate`: *Summon villagers, cats, and an iron golem for your village*
 
 ### Recommended settings
-In order for instant villages to generate correctly, **it is recommended that you set your world’s simulation distance to at least 6 chunks**. Instant villages are large structures and attempting to generate them in unloaded chunks may cause some individual structures of the village to fail to generate.
+In order for instant villages to generate correctly, **it is recommended to set your world’s simulation distance to at least 6 chunks**. Instant villages are large structures and attempting to generate them in unloaded chunks may cause unexpected behavior.
 
 ### Using on mobile
 Most functions follow the same structure naming scheme used internally by Minecraft. However, having to type complex function commands repeatedly on a mobile device becomes tedious very quickly. For a better experience, you can pair the add-on with [Advanchat](https://github.com/th3emilis/advanchat/releases/latest) to start autofilling and accessing previous functions effortlessly.

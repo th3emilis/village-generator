@@ -2,6 +2,28 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.3.0 - 28 August 2025
+
+### Added
+- All 48 Abandoned Taiga Village individual structures
+- New instant Plains Village design
+- New instant Taiga Village design
+- New instant Abandoned Plains Village design
+- Instant village generation for Abandoned Taiga Village (2 designs)
+
+### Changed
+- Instant villages now generate with the town center at the player’s position on the highest non-air block beneath them, emulating the behavior of the /place command
+- Instant villages are now populated at the village center after all individual structures have been generated, preventing mobs from suffocating or getting stuck inside houses
+- Streets now generate with randomly placed grass blocks
+- Farms now generate with random crops
+
+### Fixed
+- Fixed some trees generating as spruce instead of pine in instant Taiga Village 1
+- Fixed incorrect small farm mirroring in instant Plains Village 1 and Abandoned Plains Village 1
+- Fixed a typo that prevented a small farm from generating in instant Old Village 2 (all variants)
+- Fixed farms generating with only wheat in instant Old Village 2 (all variants)
+- Fixed the notice not showing when generating an instant village for the first time
+
 ## 2.2.0 - 30 July 2025
 
 - Added 250 new individual structures: 52 Savanna Village, 40 Snowy Village, 45 Abandoned Desert Village, 61 Abandoned Plains Village, and 52 Old Zombie Village (all variants).
