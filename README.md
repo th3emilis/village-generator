@@ -41,7 +41,7 @@ Seamlessly pair this add-on with other generators, like [Pillage Generator](http
 
 ## Usage
 
-In the chat screen, type `/function vg/help` to get a list of all the available functions in the main directory. Every subdirectory includes a similar function, such as `/function vg/plains/help`.
+In the chat screen, type `/function vg/help` to get a list of all the available functions in the main directory. Every subdirectory includes a similar function, such as `/function vg/plains/help`. Alternatively, you can use the [web version of the help system](HELP.md).
 
 Once you have found the structure you want to generate, make sure you are standing where you want it to be placed. When selecting a location, keep in mind that structures generate diagonally to the right, in the cardinal direction your character is facing. For example, if you are facing east, the structure will generate toward positive `X` and `Y` coordinate values.
 
@@ -57,6 +57,10 @@ In order for instant villages to generate correctly, **it is recommended to set 
 
 ### Using on mobile
 Most functions follow the same structure naming scheme used internally by Minecraft. However, having to type complex function commands repeatedly on a mobile device becomes tedious very quickly. For a better experience, you can pair the add-on with [Advanchat](https://github.com/th3emilis/advanchat/releases/latest) to start autofilling and accessing previous functions effortlessly.
+
+## Video showcase
+
+[![Village Generator Showcase](https://img.youtube.com/vi/4DUYRCNIfLg/maxresdefault.jpg)](https://www.youtube.com/watch?v=4DUYRCNIfLg)
 
 ## License
 
