@@ -2,6 +2,19 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.3.1 - 20 September 2025
+
+### Removed
+- Removed Abandoned Plains Accessory structure
+
+### Fixed
+- Fixed loot not being placed randomly in chests from Abandoned Village structures
+- Fixed flower pots and their plants dropping when generating Abandoned Village structures
+- Fixed Abandoned Desert Lamp generating without cobwebs
+- Fixed Abandoned Plains Animal Pen 3 generating with torches
+- Fixed Abandoned Desert Small House 6 structure size
+- Fixed populate functions summoning mobs on top of structures
+
 ## 2.3.0 - 28 August 2025
 
 ### Added
