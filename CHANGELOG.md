@@ -2,6 +2,18 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 2.4.0 - 21 January 2026
+
+### Added
+- All 56 Abandoned Savanna Village individual structures
+- All 53 Abandoned Snowy Village individual structures
+- New instant village designs: Savanna, Snowy, Plains, Abandoned Plains
+- Instant village generation for Abandoned Savanna and Abandoned Snowy (4 designs)
+- Added grass patches to instant Plains, Savanna, and Desert villages. This can be disabled by running /tag @s add epicth3emilis:vg_no_instant_grass.
+
+### Changed
+- Cobblestone in Plains Village houses and town centers is now randomly mossified
+
 ## 2.3.1 - 20 September 2025
 
 ### Removed
