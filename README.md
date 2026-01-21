@@ -5,39 +5,39 @@
 <a href="https://curseforge.com/minecraft-bedrock/addons/village-generator-function-pack/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>  
 <a href="https://mcpedl.com/village-generator-function-pack/#downloads"><img src="https://github.com/user-attachments/assets/8d2314e9-8706-40e5-aabc-53adc1abe75f" height="56" alt="Get it on MCPEDL"></a>
 
-Build villages anywhere in your world in the blink of an eye. Village Generator adds over 500 functions to the game to help you instantly place villages, or, if you’re feeling creative, to design your own from scratch with ease. Now go bring your superflat worlds to life!
+Bring your superflat worlds to life in the blink of an eye. Village Generator adds over 600 functions to the game, giving you the power to instantly place villages or easily design your own from scratch.
 
 ## Features
 
 ### Individual structures
 Build your own village, one structure at a time.
 
-![Screenshot showing three small houses, a weaponsmith, and a mason’s house along a dirt path.](assets/screenshot_0.png)
+![A screenshot showing various plains village houses next to each other.](assets/screenshot_0.png)
 
 ### Instant village
 Generate an entire village with a single command.
 
-![Screenshot showing an instant Taiga Village.](assets/screenshot_1.png)
+![A screenshot showing an instant plains village.](assets/screenshot_1.png)
 
 ### Multiple village types
-Choose between different variants to match your biome or theme.
+Choose from different variants to complement your biome or theme.
 
-![Screenshot showing small houses from Desert, Savanna, Taiga, and Snowy Villages.](assets/screenshot_2.png)
+![An image divided into four different layers showing small houses from desert, savanna, taiga, and snowy villages.](assets/screenshot_2.png)
 
 ### Abandoned villages
 Generate instant zombie villages or individual zombie village structures.
 
-![Screenshot showing an instant Abandoned Desert Village and an instant Abandoned Plains Village.](assets/screenshot_3.png)
+![An image divided into two different layers showing an instant abandoned desert village and an instant abandoned plains village.](assets/screenshot_3.png)
 
 ### Old village
 Generate instant old-type villages or individual old-type village structures.
 
-![Screenshot showing an instant Old Savanna Village and an instant Old Plains Village.](assets/screenshot_4.png)
+![An image divided into two different layers showing an instant old savanna village and an instant old plains village.](assets/screenshot_4.png)
 
 ### Compatible with other generators
-Seamlessly pair this add-on with other generators, like [Pillage Generator](https://github.com/th3emilis/pillage-generator/releases/latest).
+Seamlessly pair this add-on with other generators, like [Pillage Generator](https://github.com/th3emilis/pillage-generator/releases/latest) or [Nether Generator](https://github.com/th3emilis/nether-generator/releases/latest).
 
-![Screenshot showing an instant Plains Village and an instant Pillager Outpost.](assets/screenshot_5.png)
+![An image split into two scenes: left side shows a pillager attacking an iron golem in a village, with a watchtower visible in the distance, right side shows a villager inside a house placed in a bastion.](assets/screenshot_5.png)
 
 ## Usage
 
@@ -48,7 +48,7 @@ Once you have found the structure you want to generate, make sure you are standi
 Here are a few functions to get you started:
 - `/function vg/instant/old/desert_2`: *Generate a prebuilt Old Desert Village*
 - `/function vg/instant/taiga_1`: *Generate a prebuilt Taiga Village*
-- `/function vg/instant/zombie_plains_3`: *Generate a prebuilt Abandoned Plains Village*
+- `/function vg/instant/zombie_plains_4`: *Generate a prebuilt Abandoned Plains Village*
 - `/function vg/snowy/houses/small_house_1`: *Generate a Snowy Small House*
 - `/function vg/populate`: *Summon villagers, cats, and an iron golem for your village*
 
@@ -56,7 +56,7 @@ Here are a few functions to get you started:
 In order for instant villages to generate correctly, **it is recommended to set your world’s simulation distance to at least 6 chunks**. Instant villages are large structures and attempting to generate them in unloaded chunks may cause unexpected behavior.
 
 ### Using on mobile
-Most functions follow the same structure naming scheme used internally by Minecraft. However, having to type complex function commands repeatedly on a mobile device becomes tedious very quickly. For a better experience, you can pair the add-on with [Advanchat](https://github.com/th3emilis/advanchat/releases/latest) to start autofilling and accessing previous functions effortlessly.
+Village Generator follows the same (complex) structure naming scheme used internally by Minecraft. If you play on a mobile device, save yourself the pain and start autofilling functions effortlessly with [Advanchat](https://github.com/th3emilis/advanchat/releases/latest).
 
 ## Video showcase
 
