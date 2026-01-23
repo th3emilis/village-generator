@@ -60,7 +60,7 @@ Village Generator follows the same (complex) structure naming scheme used intern
 
 ## Video showcase
 
-[![Village Generator Showcase](https://img.youtube.com/vi/4DUYRCNIfLg/maxresdefault.jpg)](https://www.youtube.com/watch?v=4DUYRCNIfLg)
+[![Village Generator Showcase](https://github.com/user-attachments/assets/92a734b7-cd0e-48bc-922b-0ff89530a546)](https://www.youtube.com/watch?v=4DUYRCNIfLg)
 
 ## License
 
